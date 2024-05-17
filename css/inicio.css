@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(4, 140, 152);
+}
+
+#container1 {
+    text-align: center;
+    color: antiquewhite ;
+    border: solid 2px white;
+    border-radius: 10px;
+    background-color: black;
+    width: 50%;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px pink;
+}
+
+#container2 {
+    height: 450px;
+    width: 40%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    background-color: slategray;
+    margin-left: 30%;
+    margin-top: 5%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 10px black;
+    gap: 5px;
+    font-size: 45px;
+}
+
+#cuadros1 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros2 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros3 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros4 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros5 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros6 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros7 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros8 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+#cuadros9 {
+    border: solid 2px white;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+
+.regresar {
+    width: 80px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    box-shadow: 3px 3px 5px pink;
+    border-radius: 4px;
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 85%;
+}
